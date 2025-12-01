@@ -1,0 +1,14 @@
+{
+  "name": "excel-viewer-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@azure/msal-browser": "^3.18.0",
+    "@azure/msal-react": "^1.5.5",
+    "@microsoft/microsoft-graph-client": "^3.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "xlsx": "^0.18.5"
+  }
+}
